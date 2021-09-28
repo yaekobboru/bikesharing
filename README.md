@@ -1,6 +1,6 @@
 # Overview of the analysis
 
-This bike trip analysis tries to answer the following listed questions to come to conclusion and recommendations
+This bike trip analysis tries to answer the following listed questions to come up to conclusion and recommendations
 on a bike-sharing program in Des Moines. The analysis specifically focuses on determining suitable time for bike
 maintenance and target customers to address commercial.
 
